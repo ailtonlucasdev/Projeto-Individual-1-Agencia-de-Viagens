@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">]
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Bootstrap -->
     <link rel="stylesheet"
@@ -20,24 +20,24 @@
      <link rel="stylesheet" href="styles.css">
 
     <!-- Syles para visualização -->
-    <style>
+    <!-- <style>
         .container{
-            margin-top: 10px;
             border: 2px solid red;
         }
 
         .itens{
             border: 1px solid yellow;
         }
-    </style>
+    </style> -->
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg navcss sticky-top navbar-dark">
         <div class="container navcss">
-            <a class="navbar-brand col-md-3 fw-bold fs-4" href="#">
+            <a class="navbar-brand col-md-2 fw-bold fs-3" href="#">
                 Agencia
             </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+                aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -79,12 +79,29 @@
     </nav>
 
     <section>
-        <div class="container hostsection">
-            <ul class="f">
-                <li>
-                    
-                </li>
-            </ul>
+        <div class="container hero">
+            <div class="row py-5 align-itens-center">
+                <div class="col-sm-6">
+                    <h1 class="display-4 fw-bold hero pt-3">Conheça o Mundo 
+                        <br>Conheça a Agencia</h1>
+                        <p class="lead hero pb-3 pt-2 ">Disfrute dos melhores momentos
+                            nos melhores lugares!</p>
+                        </p>
+                        <div class="pl-2">
+                            <button class="btn btn-secondary px-3 d-inline-block me-2">
+                                Conhecer
+                            </button>
+                            <button class="btn btn-primary px-3 d-inline-block">
+                                Descubrir +
+                            </button>
+                        </div>
+                        
+                </div>
+                <div class="col-12 col-sm-6">
+                    <img src="/assets/indeximage.png" alt="Mulher feliz e sorridente curtindo uma viagem"
+                    class="img-fluid pt-2">
+                </div>          
+            </div>
         </div>
     </section>
 </body>
