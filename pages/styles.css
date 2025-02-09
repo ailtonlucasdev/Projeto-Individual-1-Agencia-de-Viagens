@@ -1,5 +1,6 @@
 body {
-    background-color: #81C784; /*Para visualizar mudanças - descartar depois e modificar com: */
+    background-color: E0F2F7; /*Para visualizar mudanças - descartar depois e modificar com: #E0F2F7*/
+    margin: 0;   
 }
 
 /*NAVBAR*/
@@ -8,7 +9,7 @@ nav {
 }
 
 .navbar{
-    margin-top: 10px;
+    
     background-color: #81C784;
 }
 
@@ -42,11 +43,10 @@ nav {
 .hero {
     background-color: aqua;
     color: black;
-    font-family:"Montserrat", serif;    ;
+    font-family:"Montserrat", serif;
 }
 
 /* Cores section-hero*/
 .container {
     margin-top: 10px
 }
-
