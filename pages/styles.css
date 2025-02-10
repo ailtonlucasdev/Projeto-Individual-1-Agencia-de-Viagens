@@ -55,6 +55,13 @@ nav {
 
 }
 
+/* HOST SECTION */
+.hostsection {
+    color: black;
+    font-family: "Roboto", serif;
+    text-align: center;
+}
+
 .filter{
     border: 1px solid red;
 }
