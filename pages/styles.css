@@ -1,5 +1,5 @@
 body {
-    background-color: E0F2F7; /*Para visualizar mudanças - descartar depois e modificar com: #E0F2F7*/
+    background-color: #E0F2F7; /*Para visualizar mudanças - descartar depois e modificar com: #E0F2F7*/
     margin: 0;   
 }
 
@@ -46,7 +46,19 @@ nav {
     font-family:"Montserrat", serif;
 }
 
-/* Cores section-hero*/
-.container {
-    margin-top: 10px
+/* Destino Section */
+.destino {
+    color: black;
+    font-family: "Roboto", serif;
+    align-items: center;
+    text-align: center;
+
+}
+
+.filter{
+    border: 1px solid red;
+}
+
+.drops {
+    align-items: start;
 }
