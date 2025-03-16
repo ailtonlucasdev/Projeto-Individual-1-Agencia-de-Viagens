@@ -1,0 +1,24 @@
+body {
+    background-color: #d6d6d6;
+    margin: 0;   
+}
+
+/* LOGIN SECTION */
+.section-login {
+    border: 0px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #ffffff;
+    color: black;
+    font-family: "Roboto", serif;
+    text-align: center;
+}
+
+.login_section {
+    border: 0px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color:  white;
+    color: black;
+    font-family: "Roboto", serif;
+}
