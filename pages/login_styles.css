@@ -22,3 +22,25 @@ body {
     color: black;
     font-family: "Roboto", serif;
 }
+
+/* botão entrar */
+.entrar {
+    background-color: #313349;
+    color: white;
+    border: none;
+}
+
+.entrar:hover {
+    background-color: #3E263D;
+}
+
+.entrar:active {
+    background-color: #28102b;
+}
+
+/* botao cadastro */
+.cadastro {
+    border: 1px solid #313349;
+    background-color: #ffffff;
+    color: #28102b;
+}
