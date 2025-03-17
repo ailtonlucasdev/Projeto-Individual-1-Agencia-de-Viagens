@@ -1,5 +1,5 @@
 # Projeto-Individual-1-Agencia-de-Viagens
-Projeto da Recode Pro AI - 2024/2025
+![Static Badge](https://img.shields.io/badge/Recode_PRO-blue) ![Static Badge](https://img.shields.io/badge/Bootstrap_5-yellow)
 
 ### Segue a modelagem de banco de dados conceitual:
 ![image](https://github.com/user-attachments/assets/cf16430d-813a-48e1-86ac-c2746df21750)
