@@ -1,12 +1,14 @@
 # Projeto-Individual-1-Agencia-de-Viagens
 ![Static Badge](https://img.shields.io/badge/Recode_PRO-blue) ![Static Badge](https://img.shields.io/badge/Bootstrap_5-yellow)
 
+### Link para site:
+https://projeto-individual-1-agencia-de-viagens.vercel.app/
+
 ### Segue a modelagem de banco de dados conceitual:
 ![image](https://github.com/user-attachments/assets/cf16430d-813a-48e1-86ac-c2746df21750)
 
 ### Modelagem de dados lógica:
 ![Screenshot_20250316_221848](https://github.com/user-attachments/assets/0d89e324-2b0f-40dd-b14d-2050c12ee0d1)
-
 
 ### Script - sql:
 
